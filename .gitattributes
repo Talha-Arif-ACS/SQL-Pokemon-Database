@@ -1,0 +1,3 @@
+*.sql linguist-detectable=true
+*.sql linguist-documentation=false
+documentation/* linguist-documentation
